@@ -3,7 +3,7 @@ Landing Page Framework (LPF)
 Made in Ukraine
 
 License:  Putin huilo! | Путин хуйло!
-          Crimea this Ukraine! | Крым — это Украина!
+          Crimea is - Ukraine! | Крым — это Украина!
 
 Требования по использованию LPF
 
